@@ -1,0 +1,472 @@
+{
+  "_embedded": {
+    "items": [
+      {
+        "uuid": "3858430e841143bb8381aeb9afdb8e02",
+        "name": "Adobe Acrobat Reader DC",
+        "category": {
+          "id": "b3d0d11298344c3c9fd2081f786966c1",
+          "name": "Multimedia"
+        },
+        "publisher": {
+          "id": "ee60111cbfda4e0ca6d31c174f925159",
+          "name": "Adobe Systems Incorporated"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      },
+      {
+        "uuid": "c14909adbaab4164b235463c3c164b4b",
+        "name": "Adobe Photoshop CC 2018",
+        "category": null,
+        "publisher": {
+          "id": "ee60111cbfda4e0ca6d31c174f925159",
+          "name": "Adobe Systems Incorporated"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      },
+      {
+        "uuid": "7ee98d22cff843a1bb2714c729ba2856",
+        "name": "Adobe Refresh Manager",
+        "category": null,
+        "publisher": {
+          "id": "ee60111cbfda4e0ca6d31c174f925159",
+          "name": "Adobe Systems Incorporated"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      },
+      {
+        "uuid": "7091e46e02274f398731cfcc97f5cec2",
+        "name": "ComputerBio",
+        "sourceUser": null,
+        "category": {
+          "id": "b3d0d11298344c3c9fd2081f786966c5",
+          "name": "Security"
+        },
+        "publisher": {
+          "id": "3a2dee154db34012b860d5efe264f791",
+          "name": "IsItUp Dotcom Pte Ltd"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      },
+      {
+        "uuid": "bbd105e318f8464c8c6a5044c67dd4fd",
+        "name": "Dell Product Registration",
+        "category": null,
+        "publisher": {
+          "id": "dc34f8652d1f45b3a37e8373a4d4422e",
+          "name": "Dell Inc."
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "2076c7038a31443fba81d5385283510d",
+        "name": "Dell SupportAssist",
+        "category": null,
+        "publisher": {
+          "id": "6a643c8be10e42e9a0c24bcd89bfdbdd",
+          "name": "Dell"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "af4edf907ede47388e22187964f9a204",
+        "name": "Dell Update",
+        "category": null,
+        "publisher": {
+          "id": "dc34f8652d1f45b3a37e8373a4d4422e",
+          "name": "Dell Inc."
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "55e5f45cf9e14ab1be3483240029db68",
+        "name": "Dell Update - SupportAssist Update Plugin",
+        "category": null,
+        "publisher": {
+          "id": "dc34f8652d1f45b3a37e8373a4d4422e",
+          "name": "Dell Inc."
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      },
+      {
+        "uuid": "9cfc53af531745fdaeb0f2c1db21b1c5",
+        "name": "DSC/AA Factory Installer",
+        "category": null,
+        "publisher": {
+          "id": "b34fb8856fab42feb2b42037fee21d21",
+          "name": "PC-Doctor, Inc."
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      },
+      {
+        "uuid": "e3d38b8e3a414d3c82ecd0069e562821",
+        "name": "HP Officejet Pro 8620 Help",
+        "category": null,
+        "publisher": {
+          "id": "78b2ead4217845feb9dcc36d65867d41",
+          "name": "Hewlett Packard"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "c41087c44a484ea2855765463d2004ff",
+        "name": "HP Update",
+        "category": null,
+        "publisher": {
+          "id": "9a6b911d51fc44b5a94b4f043d6353b3",
+          "name": "Hewlett-Packard"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "b6dc9f6c85b84d2cb5e76851a39de1c7",
+        "name": "Intel(R) Chipset Device Software",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "bfe74e029ce74514852c3b929c897371",
+        "name": "Intel(R) Dynamic Platform and Thermal Framework",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      },
+      {
+        "uuid": "53bbf0dfee03431ca4ac3933b5150346",
+        "name": "Intel(R) Management Engine Components",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "5bc8f0afe6fb44e99dbf872bd14af5e3",
+        "name": "Intel(R) ME UninstallLegacy",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": {
+          "id": "e3bf5368408d463e8da07a4272362ea5",
+          "name": "Pre-Installed"
+        },
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "9f250b088bd2483986988834c5981043",
+        "name": "Intel(R) Processor Graphics",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "eedeadee809945d5b656c37b0cb37f28",
+        "name": "Intel(R) Rapid Storage Technology",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "159a461176b04588b3ac7627d934aaa2",
+        "name": "Intel(R) Serial IO",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "536cf0c531084eabb3a52ef8f1fcbefc",
+        "name": "Intel(R) WiDi",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      },
+      {
+        "uuid": "85fae5205d1b45329cd5d53e47cf08dd",
+        "name": "Intel(R) WiDi Software Asset Manager",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      },
+      {
+        "uuid": "fc325c1f7e354edba5f439c1d2fc880a",
+        "name": "Intel® PROSet/Wireless Software",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "d929198c200f4566b5c27d976a6718e0",
+        "name": "Intel® PROSet/Wireless WiFi Software",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "cf31839d60d8474d8dc59971d5159263",
+        "name": "Intel® Security Assist",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 2,
+        "reviewed": true
+      },
+      {
+        "uuid": "7f51be4ac29e4c91a8bc3352104351f0",
+        "name": "Intel® Trusted Connect Service Client",
+        "category": null,
+        "publisher": {
+          "id": "a33a98ac79224d8bb52152ba10e1e6e7",
+          "name": "Intel Corporation"
+        },
+        "type": null,
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      },
+      {
+        "uuid": "26fdefedb3534776be23c65befe5af1d",
+        "name": "IsItUp",
+        "category": {
+          "id": "b3d0d11298344c3c9fd2081f786966c0",
+          "name": "Security"
+        },
+        "publisher": {
+          "id": "3a2dee154db34012b860d5efe264f791",
+          "name": "IsItUp Dotcom Pte Ltd"
+        },
+        "type": {
+          "id": "ac8646bcc5aa4b20ba9b971f3c8bb976",
+          "name": "Paid (License)"
+        },
+        "operatingSystem": {
+          "id": "64f09ce8048a4597ba727269570a0b93",
+          "name": "Windows"
+        },
+        "licenseType": null,
+        "softwareIsOs": "0",
+        "counter": 1,
+        "reviewed": true
+      }
+    ]
+  }
+}

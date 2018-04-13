@@ -1,0 +1,160 @@
+{
+  "_embedded": {
+    "items": [
+      {
+        "uuid": "1ad691ff272243d985ccafe753b5473d",
+        "name": "Anti-Malware",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/1ad691ff272243d985ccafe753b5473d"
+          }
+        }
+      },
+      {
+        "uuid": "6e6bd7b9814c49ddbab5ae76e7269660",
+        "name": "Browsers",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/6e6bd7b9814c49ddbab5ae76e7269660"
+          }
+        }
+      },
+      {
+        "uuid": "702d455ab39749369cd78cc9a9ac9bfe",
+        "name": "Database",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/702d455ab39749369cd78cc9a9ac9bfe"
+          }
+        }
+      },
+      {
+        "uuid": "6d48eb7a71fe40a9a02e23db7aaf66e6",
+        "name": "Developer",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/6d48eb7a71fe40a9a02e23db7aaf66e6"
+          }
+        }
+      },
+      {
+        "uuid": "fb05f39dc987492496971a9adfa4b71d",
+        "name": "Disk cleaners",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/fb05f39dc987492496971a9adfa4b71d"
+          }
+        }
+      },
+      {
+        "uuid": "231f9f66021b4603a8ec2676ab36bf6e",
+        "name": "Drivers",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/231f9f66021b4603a8ec2676ab36bf6e"
+          }
+        }
+      },
+      {
+        "uuid": "1867ac0f36e449709070d5fa99edf488",
+        "name": "Messaging",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/1867ac0f36e449709070d5fa99edf488"
+          }
+        }
+      },
+      {
+        "uuid": "6c8388aef8604466a3343daf656f8356",
+        "name": "Multimedia",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/6c8388aef8604466a3343daf656f8356"
+          }
+        }
+      },
+      {
+        "uuid": "d8350a0537634917b384f384ecdb1523",
+        "name": "Networking",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/d8350a0537634917b384f384ecdb1523"
+          }
+        }
+      },
+      {
+        "uuid": "fa34f9e2d7764cbda6e0121c0a05493c",
+        "name": "Office",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/fa34f9e2d7764cbda6e0121c0a05493c"
+          }
+        }
+      },
+      {
+        "uuid": "b4bcb4e2d7f5487da8d925fe31869f71",
+        "name": "Photo / Image",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/b4bcb4e2d7f5487da8d925fe31869f71"
+          }
+        }
+      },
+      {
+        "uuid": "2adc90b95a6c40c19319f70ae73e0ed4",
+        "name": "Productivity",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/2adc90b95a6c40c19319f70ae73e0ed4"
+          }
+        }
+      },
+      {
+        "uuid": "b3d0d11298344c3c9fd2081f786966c0",
+        "name": "Security",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/b3d0d11298344c3c9fd2081f786966c0"
+          }
+        }
+      },
+      {
+        "uuid": "d60eee4d618a4cb2882d463e7ed6138d",
+        "name": "Web Apps",
+        "createdAt": "2017-08-08T23:05:41+0800",
+        "updatedAt": "2017-08-08T23:05:41+0800",
+        "_links": {
+          "self": {
+            "href": "https://yodamobi15.isitup.mobi/api/retail/software/category/d60eee4d618a4cb2882d463e7ed6138d"
+          }
+        }
+      }
+    ]
+  }
+}
